@@ -102,8 +102,10 @@
 
                     {{-- Top section with logo and title --}}
                     <div class="flex items-center gap-4">
-                        <img src="{{ asset('build/assets/up.png') }}"
-                            class="w-10 h-10 p-2 object-cover bg-blue-500 rounded-full" alt="Logo">
+                       {{-- font awsome --}}
+                       <span class="bg-blue-500 rounded-full p-2 text-amber-300 font-bold">
+                        <i class="fa-solid fa-trophy icon-circle"></i>
+                       </span>
 
                         <div>
                             <h3 class="text-xl font-bold text-gray-700">
@@ -134,8 +136,10 @@
 
                     {{-- Top section with logo and title --}}
                     <div class="flex items-center gap-4">
-                        <img src="{{ asset('build/assets/up.png') }}"
-                            class="w-10 h-10 p-2 object-cover bg-blue-500 rounded-full" alt="Course Logo">
+                        {{-- font awsome --}}
+                       <span class="bg-blue-500 rounded-full p-2 text-amber-300 font-bold">
+                        <i class="fa-solid fa-trophy icon-circle"></i>
+                       </span>
 
                         <div>
                             <h3 class="text-xl font-bold text-gray-700">
@@ -164,8 +168,10 @@
 
                     {{-- Top section with logo and title --}}
                     <div class="flex items-center gap-4">
-                        <img src="{{ asset('build/assets/up.png') }}"
-                            class="w-10 h-10 p-2 object-cover bg-blue-500 rounded-full" alt="Course Logo">
+                        {{-- font awsome --}}
+                       <span class="bg-blue-500 rounded-full p-2 text-amber-300 font-bold">
+                        <i class="fa-solid fa-trophy icon-circle"></i>
+                       </span>
 
                         <div>
                             <h3 class="text-xl font-bold text-gray-700">
@@ -211,8 +217,10 @@
 
                     {{-- Top section with logo and title --}}
                     <div class="flex items-center gap-4">
-                        <img src="{{ asset('build/assets/up.png') }}"
-                            class="w-10 h-10 p-2 object-cover bg-blue-500 rounded-full" alt="Course Logo">
+                        {{-- font awsome --}}
+                       <span class="bg-blue-500 rounded-full p-2 text-amber-300 font-bold">
+                        <i class="fa-solid fa-trophy icon-circle"></i>
+                       </span>
 
                         <div>
                             <h3 class="text-xl font-bold text-gray-700">
@@ -241,8 +249,10 @@
 
                     {{-- Top section with logo and title --}}
                     <div class="flex items-center gap-4">
-                        <img src="{{ asset('build/assets/up.png') }}"
-                            class="w-10 h-10 p-2 object-cover bg-blue-500 rounded-full" alt="Course Logo">
+                        {{-- font awsome --}}
+                       <span class="bg-blue-500 rounded-full p-2 text-amber-300 font-bold">
+                        <i class="fa-solid fa-trophy icon-circle"></i>
+                       </span>
 
                         <div>
                             <h3 class="text-xl font-bold text-gray-700">
