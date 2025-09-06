@@ -31,7 +31,7 @@
         <div>
             <button
                 class="p-2 bg-gray-300 hover:bg-gray-200 transition duration-200 animate-bounce rounded-full cursor-pointer">
-                <span class=""> 🌙 Dark mode </span>
+                <span class=""> YOEUNG YENG </span>
             </button>
         </div>
     </section>
