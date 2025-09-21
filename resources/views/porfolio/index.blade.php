@@ -127,9 +127,9 @@
                             Graduated with a Bachelor's degree in Computer Science, focusing on software engineering,
                             algorithms, and data structures.
                         </p>
-                        <a href="{{ asset("myen.pdf") }}"
+                        <a href="https://drive.google.com/drive/folders/1e_jxMk1N00S6hLyDQHQ-QrN9-KDvIz90" target="_blank"
                             class="mt-4 px-4 py-2 w-fit bg-blue-500 text-white rounded-xl hover:bg-blue-400 transition-colors duration-200">
-                            Download Certificate (Word)
+                            Certificate
                         </a>
 
 
