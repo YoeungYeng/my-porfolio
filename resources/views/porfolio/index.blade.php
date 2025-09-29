@@ -12,7 +12,7 @@
             Mobile app - Web-Stack Web Developer | PHP/Laravel - ReactJS - Flutter
         </p>
         {{-- quotes --}}
-        <p class="text-gray-400 italic text-base text-center sm:text-lg">
+        <p class="text-gray-400 italic font-bold hover:underline text-base text-center sm:text-lg">
             "With great power comes great responsibility"
         </p>
     </div>
@@ -74,22 +74,22 @@
                 <div
                     class="w-full sm:w-56 md:w-60 rounded-xl flex justify-center items-center flex-col h-[160px] bg-gray-200 hover:scale-105 transition-all duration-200">
                     <h3 class="text-blue-500 text-3xl font-bold"> Just </h3>
-                    <p class="font-medium italic"> Finish Graduated </p>
+                    <p class="font-medium italic"> Finish Graduated <span class="text-red-400">2021-2025</span> </p>
                 </div>
                 <div
                     class="w-full sm:w-56 md:w-60 rounded-xl flex flex-col items-center justify-center h-[160px] bg-gray-200 hover:scale-105 transition-all duration-200">
-                    <h3 class="text-blue-500 text-3xl font-bold">20+</h3>
-                    <p class="font-medium italic">Projects Completed</p>
+                    <h3 class="text-blue-500 text-3xl font-bold">10+</h3>
+                    <p class="font-medium italic text-center">Projects Completed <span class="text-red-400">(small Project)</span> </p>
                 </div>
                 <div
                     class="w-full sm:w-56 md:w-60 rounded-xl flex flex-col items-center justify-center h-[160px] bg-gray-200 hover:scale-105 transition-all duration-200">
                     <h3 class="text-blue-500 text-3xl font-bold">Full-Stack</h3>
-                    <p class="font-medium italic">PHP-LARAVEL</p>
+                    <p class="font-medium italic text-center">PHP-LARAVEL, ReactJS, API, Mysql, Sqlite</p>
                 </div>
                 <div
                     class="w-full sm:w-56 md:w-60 rounded-xl flex flex-col items-center justify-center h-[160px] bg-gray-200 hover:scale-105 transition-all duration-200">
                     <h3 class="text-blue-500 text-3xl font-bold">Mobile App</h3>
-                    <p class="font-medium italic">Flutter</p>
+                    <p class="font-medium italic text-center">Dart/Flutter</p>
                 </div>
             </div>
         </div>
@@ -177,7 +177,7 @@
                             Mastered backend development, building REST APIs, and understanding MVC architecture using
                             the Laravel framework.
                         </p>
-                        <a href="https://github.com/YoeungYeng/pixel-postion" target="_blank"
+                        <a href="https://github.com/YoeungYeng/eccomerce-php" target="_blank"
                             class="mt-4 px-4 py-2 w-fit bg-blue-500 text-white rounded-xl hover:bg-blue-400 transition-colors duration-200">
                             View Project
                         </a>
@@ -235,10 +235,10 @@
                         <p class="font-medium rounded-xl bg-white px-3 py-1 shadow-sm text-sm">2025</p>
                     </div>
                     <p class="text-gray-600 text-base leading-7 mb-4 flex-grow">
-                        Developed a full-stack e-commerce platform using Laravel, MySQL, and TailwindCSS with RESTful
+                        Developed a full-stack e-commerce platform using Laravel, MySQL, Sqlite, ReactJS, and TailwindCSS with RESTful
                         APIs for product and order management.
                     </p>
-                    <a href="#" target="_blank" class="text-blue-500 hover:underline font-semibold">View
+                    <a href="https://github.com/YoeungYeng/eccomerce-php" target="_blank" class="text-blue-500 hover:underline font-semibold">View
                         Project</a>
                 </div>
                 <div
@@ -248,10 +248,10 @@
                         <p class="font-medium rounded-xl bg-white px-3 py-1 shadow-sm text-sm">2024</p>
                     </div>
                     <p class="text-gray-600 text-base leading-7 mb-4 flex-grow">
-                        Built a cross-platform mobile app using Flutter & Dart, with Firebase authentication and API
-                        integration for real-time data syncing.
+                        Built a cross-platform mobile app using Flutter & Dart, with Jwt authentication and API
+                        integration for e-commerce.
                     </p>
-                    <a href="#" target="_blank" class="text-blue-500 hover:underline font-semibold">View
+                    <a href="https://github.com/YoeungYeng/eccomerce-php/" target="_blank" class="text-blue-500 hover:underline font-semibold">View
                         Project</a>
                 </div>
             </div>
