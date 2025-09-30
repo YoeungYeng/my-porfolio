@@ -79,7 +79,8 @@
                 <div
                     class="w-full sm:w-56 md:w-60 rounded-xl flex flex-col items-center justify-center h-[160px] bg-gray-200 hover:scale-105 transition-all duration-200">
                     <h3 class="text-blue-500 text-3xl font-bold">10+</h3>
-                    <p class="font-medium italic text-center">Projects Completed <span class="text-red-400">(small Project)</span> </p>
+                    <p class="font-medium italic text-center">Projects Completed <span class="text-red-400">(small
+                            Project)</span> </p>
                 </div>
                 <div
                     class="w-full sm:w-56 md:w-60 rounded-xl flex flex-col items-center justify-center h-[160px] bg-gray-200 hover:scale-105 transition-all duration-200">
@@ -127,7 +128,8 @@
                             Graduated with a Bachelor's degree in Computer Science, focusing on software engineering,
                             algorithms, and data structures.
                         </p>
-                        <a href="https://drive.google.com/drive/folders/1e_jxMk1N00S6hLyDQHQ-QrN9-KDvIz90" target="_blank"
+                        <a href="https://drive.google.com/drive/folders/1e_jxMk1N00S6hLyDQHQ-QrN9-KDvIz90"
+                            target="_blank"
                             class="mt-4 px-4 py-2 w-fit bg-blue-500 text-white rounded-xl hover:bg-blue-400 transition-colors duration-200">
                             Certificate
                         </a>
@@ -153,7 +155,7 @@
                             Learned how to build cross-platform mobile apps with Flutter & Dart, covering UI, state
                             management, and API integration.
                         </p>
-                        <a href="https://github.com/YoeungYeng/mobile_app" target="_blank"
+                        <a href="https://youtu.be/PVxRGPLSEe4" target="_blank"
                             class="mt-4 px-4 py-2 w-fit bg-blue-500 text-white rounded-xl hover:bg-blue-400 transition-colors duration-200">
                             View Project
                         </a>
@@ -177,7 +179,32 @@
                             Mastered backend development, building REST APIs, and understanding MVC architecture using
                             the Laravel framework.
                         </p>
-                        <a href="https://github.com/YoeungYeng/eccomerce-php" target="_blank"
+                        <a href="https://youtu.be/CqGBg07WINQ" target="_blank"
+                            class="mt-4 px-4 py-2 w-fit bg-blue-500 text-white rounded-xl hover:bg-blue-400 transition-colors duration-200">
+                            View Project
+                        </a>
+                    </div>
+                </div>
+
+                {{-- Card 4 (Laravel api/ReactJs) --}}
+                <div
+                    class="w-full p-6 rounded-xl flex flex-col gap-4 bg-gray-200 hover:scale-105 transition-transform duration-200">
+                    <div class="flex items-center gap-4">
+                        <span class="bg-blue-500 rounded-full p-3 text-amber-300 font-bold text-xl">
+                            <i class="fa-solid fa-trophy"></i>
+                        </span>
+                        <div>
+                            <h3 class="text-lg font-bold text-gray-700">Laravel API & ReactJS</h3>
+                            <p class="text-gray-600">Project building for Assignment in my course</p>
+                        </div>
+                    </div>
+                    <div class="flex flex-col flex-grow justify-between">
+                        <p class="text-gray-600 text-base leading-7">
+                            I building this project for my assignment about e-commerce, building REST APIs, and
+                            understanding MVC architecture using
+                            the Laravel framework for building API and ReactJS for front-end.
+                        </p>
+                        <a href="https://youtu.be/0SOQgipMdKM" target="_blank"
                             class="mt-4 px-4 py-2 w-fit bg-blue-500 text-white rounded-xl hover:bg-blue-400 transition-colors duration-200">
                             View Project
                         </a>
@@ -235,10 +262,12 @@
                         <p class="font-medium rounded-xl bg-white px-3 py-1 shadow-sm text-sm">2025</p>
                     </div>
                     <p class="text-gray-600 text-base leading-7 mb-4 flex-grow">
-                        Developed a full-stack e-commerce platform using Laravel, MySQL, Sqlite, ReactJS, and TailwindCSS with RESTful
+                        Developed a full-stack e-commerce platform using Laravel, MySQL, Sqlite, ReactJS, and
+                        TailwindCSS with RESTful
                         APIs for product and order management.
                     </p>
-                    <a href="https://github.com/YoeungYeng/eccomerce-php" target="_blank" class="text-blue-500 hover:underline font-semibold">View
+                    <a href="https://github.com/YoeungYeng/eccomerce-php" target="_blank"
+                        class="text-blue-500 hover:underline font-semibold">View
                         Project</a>
                 </div>
                 <div
@@ -251,7 +280,8 @@
                         Built a cross-platform mobile app using Flutter & Dart, with Jwt authentication and API
                         integration for e-commerce.
                     </p>
-                    <a href="https://github.com/YoeungYeng/eccomerce-php/" target="_blank" class="text-blue-500 hover:underline font-semibold">View
+                    <a href="https://github.com/YoeungYeng/eccomerce-php/" target="_blank"
+                        class="text-blue-500 hover:underline font-semibold">View
                         Project</a>
                 </div>
             </div>
